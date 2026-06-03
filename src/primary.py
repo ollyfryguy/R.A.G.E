@@ -4,7 +4,6 @@ import random
 
 #Dummy Values
 accelX, accelY, accelZ = [
-    0, 0
+    0, 0, 0
 ]
 
-print(accelZ)
